@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:3B1F35,50:714B67,100:875A7B&height=240&section=header&text=Gautam%20Kundaria&fontSize=54&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Senior%20Odoo%20Developer%20%E2%80%A2%20ERP%20Implementer%20%E2%80%A2%20Techno-Functional%20Consultant&descAlignY=60&descSize=17&stroke=ffffff&strokeWidth=1"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:3B1F35,50:714B67,100:875A7B&height=230&section=header&text=Gautam%20Kundaria&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Senior%20Odoo%20Developer%20%7C%20ERP%20Implementer%20%7C%20Techno-Functional%20Consultant&descAlignY=58&descSize=16"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3200&pause=900&color=875A7B&center=true&vCenter=true&multiline=false&width=860&lines=%F0%9F%9A%80+Building+scalable+ERP+on+Odoo+since+2021;%F0%9F%94%84+Odoo+v12+%E2%86%92+v19+migrations+%E2%80%94+zero+data+loss;%F0%9F%A7%A9+Custom+modules+%7C+POS+%7C+MRP+%7C+Accounting+%7C+HR;%F0%9F%94%8C+REST+%2F+JSON-RPC+%2F+XML-RPC+integrations;%F0%9F%90%B3+Docker+%E2%80%A2+Kubernetes+%E2%80%A2+Odoo.sh+%E2%80%A2+CI%2FCD"/>
+<a href="https://gautamkundaria.in"><img width="100%" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=875A7B&center=true&vCenter=true&width=700&height=45&lines=Building+scalable+ERP+on+Odoo+since+2021;Odoo+v12+%E2%86%92+v19+migrations+with+zero+data+loss;Custom+Modules+%7C+POS+%7C+MRP+%7C+Accounting+%7C+HR;REST+%2F+JSON-RPC+%2F+XML-RPC+Integrations;Docker+%7C+Kubernetes+%7C+Odoo.sh+%7C+CI%2FCD"/></a>
 
 <br>
 
@@ -368,4 +368,4 @@ I usually reply **within 24 hours**.
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:875A7B,50:714B67,100:3B1F35&height=130&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:875A7B,50:714B67,100:3B1F35&height=130&section=footer"/>
